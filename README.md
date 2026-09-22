@@ -1,7 +1,7 @@
-# My portfolio
-## Guilherme Martins de Magalhães (GMM)
+## My portfolio
+### Guilherme Martins de Magalhães (GMM)
 
-HTML · CSS · JavaScript · Design
+#### HTML · CSS · JavaScript · Design
 
 This website was originally made to stardance hack club, but now is, to me, way more to me than just that.
 
@@ -18,6 +18,9 @@ This website was built entiraly on VS Code dev and GitHub web.
 ![Site exemple](exemplo.jpg)
 
 Find me
+
 Website: guilhermemm.com
+
 GitHub: @GuilhermeMartins-GMM
+
 Instagram: @gui_mm
